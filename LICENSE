@@ -1,0 +1,23 @@
+CodeLeash End-User License Agreement (Community & Pro)
+
+Copyright (c) 2026 CodeLeash. All rights reserved.
+
+1. Community Tier Usage
+Permission is granted, free of charge, to install and use the CodeLeash extension
+Community Tier for personal and commercial software development.
+
+2. CodeLeash Pro License
+Features designated as "CodeLeash Pro" (including unlimited snapshot retention
+beyond 24 hours, custom SSH guardrail regex rules, unlimited LSP blast-radius
+alerts, and Proof-of-Effort Markdown exports) require a valid CodeLeash Pro
+license key. Each individual Pro license grants activation on up to three (3)
+personal machines owned or operated by the licensee.
+
+3. Restrictions
+Except as permitted by applicable law, you may not redistribute paid license keys,
+circumvent license verification mechanisms, or republish the packaged extension
+under another publisher identity.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
